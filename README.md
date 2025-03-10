@@ -35,7 +35,9 @@ G.Evaluates the model's accuracy on test data.
 
 Expected Output Accuracy : 
 1.Training Accuracy: Around 75% - 85%.
+
 2.Test Accuracy: Around 70% - 80%.
+
 3.Training time: Around 2-3 minutes (depending on your machine).
 
 OUTPUT : 
