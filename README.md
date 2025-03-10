@@ -32,4 +32,5 @@ Expected Output Accuracy :
 2.Test Accuracy: Around 70% - 80%.
 3.Training time: Around 2-3 minutes (depending on your machine).
 
-OUTPUT :
+OUTPUT : 
+![Image](https://github.com/user-attachments/assets/51eff3bf-74ab-41c1-b43b-104bb0abd422)
